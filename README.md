@@ -9,4 +9,4 @@ Bu projede amaç, XML kısmında uygulama yaparak sistemin dinamiklerine alışm
 
 📷 Ekran Görüntüleri
 
-![](./screenshots/giris.png)
+![](./screenshots/sc.png)
