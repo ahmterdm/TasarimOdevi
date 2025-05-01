@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookHotel</string>
+    <string name="location">Gdańsk, Polonya</string>
+    <string name="hotel_name">Gdańsk Otel</string>
+    <string name="review">(12 Inceleme)</string>
+    <string name="instr">Profesör</string>
+    <string name="hotel_description">Şehir merkezine yakın uygun ve rahat bir otel mi arıyorsunuz? İşte burada!</string>
+    <string name="benefits">Fırsatlar:</string>
+    <string name="book">Rezervasyon Yapın</string>
+    <string name="day">/gün</string>
+    <string name="price">32$</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookHotel</string>
+    <string name="location">Gdańsk, Poland</string>
+    <string name="hotel_name">Hotel Gdańsk</string>
+    <string name="review">(12 Reviews)</string>
+    <string name="instr">Instructor</string>
+    <string name="hotel_description">Are you looking for an affordable, comfortable hotel close to the centre? Here it is!</string>
+    <string name="benefits">Beneifts:</string>
+    <string name="book">Book Now</string>
+    <string name="day">/day</string>
+    <string name="price">$32</string>
+
+
+</resources>
